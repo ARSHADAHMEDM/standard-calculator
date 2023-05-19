@@ -111,8 +111,8 @@ calc.html
 
 ## OUTPUT:
 
-![OUTPUT](myproj/static/input.png)
-![OUTPUT](myproj/static/output.png)
+![OUTPUT](input.png)
+![OUTPUT](output.png)
 ## Result:
 
 The program for designing a simple calculator using Javascript is created successfully.
