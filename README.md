@@ -1,10 +1,10 @@
-# Design of a Standard Calculator
+### Design of a Standard Calculator
 
-## AIM:
+### AIM:
 
 To design a web application for a standard calculator.
 
-## DESIGN STEPS:
+### DESIGN STEPS:
 
 ### Step 1:
 
@@ -34,7 +34,7 @@ Validate the HTML and CSS code.
 
 Publish the website in the given URL.
 
-## PROGRAM :
+### PROGRAM :
 
 ```html
 calc.html
@@ -109,11 +109,11 @@ calc.html
 </html>
 ```
 
-## OUTPUT:
+### OUTPUT:
 
 ![OUTPUT](input.png)
 ![OUTPUT](output.png)
-## Result:
+### Result:
 
 The program for designing a simple calculator using Javascript is created successfully.
 
